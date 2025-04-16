@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-feature
-feature2
-=======
-feature
->>>>>>> feature
