@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file 2 has edited
+=======
+welcome to file 2
+>>>>>>> origin/main
