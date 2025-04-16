@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 bengaluru
+=======
+<<<<<<< Updated upstream
+hello
+=======
+hosur
+>>>>>>> Stashed changes
+>>>>>>> new-file
