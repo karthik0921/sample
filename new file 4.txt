@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to new file 4
+=======
+hello hosur
+>>>>>>> new-file-4
