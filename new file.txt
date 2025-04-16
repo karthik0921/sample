@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 thiagarajar collage of engineering
 Madurai
 tamilnadu
+=======
+parimalam matriculation school
+hosur
+tamilnadu
+>>>>>>> Stashed changes
