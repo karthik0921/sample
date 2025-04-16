@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello hosur
-=======
-hello bengaluru
->>>>>>> new-file-3
+
